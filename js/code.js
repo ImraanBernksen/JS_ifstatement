@@ -143,5 +143,34 @@ Different loop in JS:
 //     Street name: ${person.address.streetName}`
 // );
 // console.log(person);
-
 // console.log(person['name'])
+
+// for of
+// let numbers = [9, 7, 4, 34, 8];
+// for(let number of numbers) {
+//     console.log(number);
+// }
+// for (let i =0; i<numbers.length; i++) {
+//     console.log(numbers[1]);
+// }
+
+// While
+// let cnt = 0;
+// while(cnt < 10) {
+//     console.log(cnt);
+//     cnt++;
+// }
+// while(true) {
+    // if(cnt < numbers.length){
+    //     console.log(number[cnt]);
+    // }else {
+    //     break;
+    // }
+    // cnt++
+// }
+
+//do{
+//   console.log(numbers[cnt]);
+//cnt++;
+//
+//} while(cnt < numbers.length);
