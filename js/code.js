@@ -174,3 +174,14 @@ Different loop in JS:
 //cnt++;
 //
 //} while(cnt < numbers.length);
+
+// Object
+// const person = {
+//     name: "Lionel",
+//     surname: "Messi"
+// }
+// console.log(person.name);
+// console.log(person['surname']);
+// person.email = "lionel@gmail.com";
+// console.log(person);
+
